@@ -12,7 +12,8 @@ end
 def reduce(array, sv = nil)
   if sv 
     sv 
+    i = 0 
   else 
-    
+    sv 
   
 end
